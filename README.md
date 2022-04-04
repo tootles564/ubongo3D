@@ -1,4 +1,4 @@
-# Ubongo 3D family solver
+# Ubongo 3D family solver & puzzle creator
 
 This script solves a given **puzzle** with a set of **pieces**.
 
