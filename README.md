@@ -57,7 +57,7 @@ Also, adjusting `PUZZLE_HEIGHT` it's possible to find piece combinations for puz
 
 ### Known issues
 
-For certain puzzle and piece combinations `solve_puzzle` exits with index error. Not sure if I care too much about it at this point.
+For certain puzzle and piece combinations (possibly in certain cases when there is not solution?) `solve_puzzle` exits with index error. Not sure if I care too much about it at this point.
 
 ## Disclaimer
 
