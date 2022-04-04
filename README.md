@@ -55,10 +55,6 @@ Thus you can check your own puzzle, or find valid piece combinations not depicte
 Also, adjusting `PUZZLE_HEIGHT` it's possible to find piece combinations for puzzles of greater height. Again, it might take quite some time.   
 
 
-### Known issues
-
-For certain puzzle and piece combinations (possibly in certain cases when there is not solution?) `solve_puzzle` exits with index error. Not sure if I care too much about it at this point.
-
 ## Disclaimer
 
 This script is a weekend project for personal use only.
